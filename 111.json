@@ -1,7 +1,7 @@
 {
     "version": "0.0.1",
     "pub_date": "2020-09-18T12:29:53+01:00",
-    "url":"file:///C:/Users/aaa/tauri-app_1.0.0_x64_en-US.msi",
-   "signature": "",
+    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/891932915/95906067-2a55-445f-b79c-562cb943e3f7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241121%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241121T085922Z&X-Amz-Expires=300&X-Amz-Signature=ed0da7307319c9ec15af82f50d749eeaa99ce8c0580f8daefc9ff6ecbad0af4d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dtauri-app_1.0.0_x64_en-US.msi&response-content-type=application%2Foctet-stream",
+     "signature": "",
     "notes": "!可以更新了！"
   }
