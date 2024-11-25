@@ -5,19 +5,19 @@
   "platforms": {
     "darwin-x86_64": {
       "signature": "Content of app.tar.gz.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.msi"
+      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
     },
     "darwin-aarch64": {
       "signature": "Content of app.tar.gz.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.msi"
+      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
     },
     "linux-x86_64": {
       "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.msi"
+      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
     },
     "windows-x86_64": {
       "signature": "Content of app.msi.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.msi"
+      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
     }
   }
 }
