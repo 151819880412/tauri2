@@ -1,23 +1,15 @@
 {
-  "version": "2.0.0",
+  "version": "0.1.0",
   "notes": "可以更新",
   "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
-    "darwin-x86_64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
-    },
-    "darwin-aarch64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
-    },
-    "linux-x86_64": {
-      "signature": "Content of app.AppImage.tar.gz.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
-    },
+
+
+
+
     "windows-x86_64": {
-      "signature": "Content of app.msi.sig",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3k0MEFsdk5iam1ubnRoUGNEcGxueU5RN0s5NmQ2NFNBTWVRZVlOeDJHTXowcHlYVjBIdHpXUGpabXFvYlF3bUNJd3ljSFBreUd1bGVmOUJZcHJyaVp1TmRpUXRWc3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyNTAxNDkwCWZpbGU6dGhpbmtidWlsZGVyXzAuMS4wX3g2NF9lbi1VUy5tc2kKeW9ycXIzVngyOCtlSVpOT2Rza3FRM0dEcG1jNDI5dityQ2ZGcGY4a00za1JvNEs2WVN2SGd5QjBMOXYvYURMSzlMZ1FBc3dTRDVBZkxqQjl2NEUzQWc9PQo=",
+      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.msi"
     }
   }
 }
