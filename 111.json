@@ -8,8 +8,8 @@
 
 
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3k0MEFsdk5iam1ubnRoUGNEcGxueU5RN0s5NmQ2NFNBTWVRZVlOeDJHTXowcHlYVjBIdHpXUGpabXFvYlF3bUNJd3ljSFBreUd1bGVmOUJZcHJyaVp1TmRpUXRWc3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyNTAxNDkwCWZpbGU6dGhpbmtidWlsZGVyXzAuMS4wX3g2NF9lbi1VUy5tc2kKeW9ycXIzVngyOCtlSVpOT2Rza3FRM0dEcG1jNDI5dityQ2ZGcGY4a00za1JvNEs2WVN2SGd5QjBMOXYvYURMSzlMZ1FBc3dTRDVBZkxqQjl2NEUzQWc9PQo=",
-      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/tauri-app_1.0.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3k0MEFsdk5ianZaV1JEYzVvdDd3ZmVKZGZ6NkxCZnR1VjVmeGRRcHpmdmhIR1VqZzNzQlFsNktGWjNGKy92TXovQVdEbHRGc0R2SlhZY0lReGRCR1lackFuamV0bnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzMyNTAzNzc3CWZpbGU6dGhpbmtidWlsZGVyXzEuMS4wX3g2NF9lbi1VUy5tc2kKT0g3WWtuc1c2SkpOQlpJSFNtekgwK1ZNZS9DNFVjemFBL08zN1dJeG0rb2hyamtsREUyUVhBUmRhL01xU3dvOG5BNzlpejlzNlpZQThKTDJ6anZpQVE9PQo=",
+      "url": "http://192.168.220.131:9001/browser/hello-minio/20241021/thinkbuilder_1.1.0_x64_en-US.msi"
     }
   }
 }
